@@ -1,4 +1,58 @@
 *{
-    margin : 0;
+    margin: 0;
     padding: 0;
 }
+
+body{
+    background-color: black;
+    font-size: 18px;
+    font-family: verdana, sans-serif;
+    text-align: center;
+}
+
+.container{
+    width: 100%;
+    margin-top: 30px;
+}
+
+h1{
+    color: white;   
+}
+
+h1 .h1first{
+    font-weight: normal;
+    font-size: 50px;
+    
+}
+h1{
+    font-weight: 300px;
+    font-size: 42px;
+    padding: 15px 0;
+}
+
+p{
+    font-size: 21px;
+    color:gray; 
+}
+
+a{
+    text-decoration:underline;
+    color: aquamarine;
+    font-size: 16px;
+    padding: 20px 0;
+}
+
+p img{
+    padding: 20px 0;
+}
+
+video{
+    padding: 20px 0;
+}
+
+footer h2{
+    color: gray;
+    text-align: right;
+    padding: 10px;
+}
+
